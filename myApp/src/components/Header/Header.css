@@ -220,10 +220,11 @@ nav.out li:nth-child(1) {
       }
       
       .line:nth-child(3) {
-        top: 48px;
+        top: 40px;
       }
       .line {
         width: 42px;
       }
+    
    
   }
