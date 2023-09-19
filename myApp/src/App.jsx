@@ -4,10 +4,9 @@ import Header2 from './components/Header2/Header2'
 
 function App() {
 
-
   return (
     <>
-      <Header2 />
+      <Header />
     </>
   )
 }
